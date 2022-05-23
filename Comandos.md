@@ -98,7 +98,7 @@ Agregar al ultimo commit, este no se muestra como un nuevo commit en los logs. S
 
 Subimos al repositorio
 ```ssh
-	git push <origien> <branch>
+	git push <origien> <branch> ## git push -u origin master
 ```
 Subimos un tag
 ```ssh
